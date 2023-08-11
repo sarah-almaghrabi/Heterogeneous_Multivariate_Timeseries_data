@@ -13,7 +13,7 @@ The repository includes the following datasets in the **data** folder:
 - **Description**: This dataset, denoted as $\mathbf{Toy_1}$ [1], comprises six variables randomly distributed within specific ranges. The target series is generated using a defined equation (Eq.1), enriched with Gaussian white noise.
 - **Equation**: Eq.1 (as per description)
 - **Samples**: 20000
-
+$$
 \[
 \begin{equation}
 \label{eq:toy1}
@@ -22,7 +22,7 @@ The repository includes the following datasets in the **data** folder:
 \end{split}   
 \end{equation}
 \]
-
+$$
 
 
 2. **pollution.csv**
