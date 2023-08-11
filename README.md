@@ -11,7 +11,7 @@ The repository includes the following datasets in the **data** folder:
 
 ### Toy_1
 - **Description**: This dataset, denoted as $\mathbf{Toy_1}$ [1], comprises six variables randomly distributed within specific ranges. The target series is generated using a defined equation (Eq.1), enriched with Gaussian white noise.
-- **Equation**:  ![Equation 1](./Heterogeneous_Multivariate_Timeseries_data/fig/toy1.png)
+- **Equation**:  ![Equation 1](https://github.com/sarah-almaghrabi/Heterogeneous_Multivariate_Timeseries_data/blob/main/fig/toy1.png)
 - **Samples**: 20000
  
 
