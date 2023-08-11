@@ -42,3 +42,20 @@ The repository includes the following datasets in the **data** folder:
 3. http://www.nemweb.com.au/REPORTS/ARCHIVE/Dispatch\_SCADA/
 4. https://solcast.com/
 5. https://archive.ics.uci.edu/
+
+
+
+## Usage
+
+1. Clone the repository:
+git clone https://github.com/sarah-almaghrabi/Heterogeneous_Multivariate_Timeseries_data.git
+
+2. Navigate to the **data** folder to access the datasets.
+3. Select the dataset that aligns with your analysis or modeling goals.
+4. Utilise the chosen dataset(s) for your research, analysis, or project as needed.
+
+## Citation
+
+If you use any of these datasets for your projects, please consider citing this repository as:
+Almaghrabi, S. (2023). Heterogeneous Multivariate Time Series Data Repository. [Repository].
+Retrieved from https://github.com/sarah-almaghrabi/Heterogeneous_Multivariate_Timeseries_data
