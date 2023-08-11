@@ -48,8 +48,9 @@ The repository includes the following datasets in the **data** folder:
 ## Usage
 
 1. Clone the repository:
+<pre>
 git clone https://github.com/sarah-almaghrabi/Heterogeneous_Multivariate_Timeseries_data.git
-
+</pre>
 2. Navigate to the **data** folder to access the datasets.
 3. Select the dataset that aligns with your analysis or modeling goals.
 4. Utilise the chosen dataset(s) for your research, analysis, or project as needed.
