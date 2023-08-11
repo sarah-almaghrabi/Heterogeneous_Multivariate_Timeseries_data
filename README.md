@@ -58,5 +58,6 @@ git clone https://github.com/sarah-almaghrabi/Heterogeneous_Multivariate_Timeser
 ## Citation
 
 If you use any of these datasets for your projects, please consider citing this repository as:
+<pre>
 Almaghrabi, S. (2023). Heterogeneous Multivariate Time Series Data Repository. [Repository].
-Retrieved from https://github.com/sarah-almaghrabi/Heterogeneous_Multivariate_Timeseries_data
+Retrieved from https://github.com/sarah-almaghrabi/Heterogeneous_Multivariate_Timeseries_data</pre>
