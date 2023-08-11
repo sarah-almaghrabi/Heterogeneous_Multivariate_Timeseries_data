@@ -1,6 +1,43 @@
 # Heterogeneous_Multivariate_Timeseries_data
 Welcome to the **Heterogeneous_Multivariate_Timeseries_data repository**! This repository hosts a collection of diverse datasets with multiple time series. These datasets are collected to facilitate the evaluation of heterogenous multivariate time series forecasting models. These datasets are collected to be used for the goal is to determine the models' ability to accurately identify lagged variables importance in heterogenous multivariate time series that include both synthetic nonlinear systems with known dynamics and real-world scenarios.
 
-The folder **data** has the following **Datasets**:
-Synthetic Data Collections
- 
+
+## Datasets
+
+The repository includes the following datasets in the **data** folder:
+
+
+## Synthetic Datasets
+
+### Toy_1
+- **Description**: This dataset, denoted as $\mathbf{Toy_1}$ [1], comprises six variables randomly distributed within specific ranges. The target series is generated using a defined equation (Eq.1), enriched with Gaussian white noise.
+- **Equation**: Eq.1 (as per description)
+- **Samples**: 20000
+
+\[
+\begin{equation}
+\label{eq:toy1}
+\begin{split}
+     y = x_1\left(t-1\right ) * x_2\left(t-2\right ) + x_3\left(t-5\right ) +x_4\left(t-1\right )  + x_4\left(t-4\right )+ x_4\left(t-5\right )+ x_4\left(t-7\right ) + x_4\left(t-8\right ) +  \varepsilon   
+\end{split}   
+\end{equation}
+\]
+
+
+
+2. **pollution.csv**
+   - Description: This dataset focuses on pollution-related time series data.
+   - Contents: Multiple pollution-related time series and a target time series.
+   - Use Case: Ideal for studying the impact of environmental factors on the target variable.
+
+
+3. **QLD1_df.csv**
+   - Description: This dataset includes multiple time series data related to a different context (replace with actual domain if applicable).
+   - Contents: Multiple time series and a target time series.
+   - Use Case: Useful for evaluating domain-specific time series forecasting models.
+
+
+5. **toy2.csv** and **toy3_Mackey_Glass.csv**
+   - Description: These datasets are simplified examples for educational purposes.
+   - Contents: Basic time series data and a target time series.
+   - Use Case: Suitable for learning time series analysis and modeling concepts.
