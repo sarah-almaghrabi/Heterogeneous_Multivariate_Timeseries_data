@@ -11,19 +11,9 @@ The repository includes the following datasets in the **data** folder:
 
 ### Toy_1
 - **Description**: This dataset, denoted as $\mathbf{Toy_1}$ [1], comprises six variables randomly distributed within specific ranges. The target series is generated using a defined equation (Eq.1), enriched with Gaussian white noise.
-- **Equation**: Eq.1 (as per description)
+- **Equation**: \(y = x_1(t-1) * x_2(t-2) + x_3(t-5) + x_4(t-1) + x_4(t-4) + x_4(t-5) + x_4(t-7) + x_4(t-8) + \varepsilon\)
 - **Samples**: 20000
-$$
-\[
-\begin{equation}
-\label{eq:toy1}
-\begin{split}
-     y = x_1\left(t-1\right ) * x_2\left(t-2\right ) + x_3\left(t-5\right ) +x_4\left(t-1\right )  + x_4\left(t-4\right )+ x_4\left(t-5\right )+ x_4\left(t-7\right ) + x_4\left(t-8\right ) +  \varepsilon   
-\end{split}   
-\end{equation}
-\]
-$$
-
+ 
 
 2. **pollution.csv**
    - Description: This dataset focuses on pollution-related time series data.
