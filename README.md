@@ -11,7 +11,7 @@ The repository includes the following datasets in the **data** folder:
 
 ### Toy_1
 - **Description**: This dataset, denoted as $\mathbf{Toy_1}$ [1], comprises six variables randomly distributed within specific ranges. The target series is generated using a defined equation (Eq.1), enriched with Gaussian white noise.
-- **Equation**:  ![Equation 1](./fig/toy1.png)
+- **Equation**:  ! (./fig/toy1.png.png)
 - **Samples**: 20000
  
 
