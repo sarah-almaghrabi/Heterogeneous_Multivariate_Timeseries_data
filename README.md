@@ -37,8 +37,10 @@ The repository includes the following datasets in the **data** folder:
 
 
 **References**:
-1. Cao, Z., & Xu, J. (2021). Multi-Attention Mechanism for Multivariate Time Series Forecasting. arXiv preprint arXiv:2109.03596.
-2. Bianchi, F. M., Scarselli, F., Gori, M., & Tsoi, A. C. (2017). Recurrent Neural Networks can be Trained to Identify Chaotic and Periodic Dynamics. Nature Communications, 8, 16019.
+1. Li Cao, Yanting Chen, Zhiyang Zhang, and Ning Gui. 2021. A Multiattention-Based Supervised Feature Selection
+Method for Multivariate Time Series. Computational Intelligence and Neuroscience 2021 (2021) 
+2. Filippo Maria Bianchi, Enrico Maiorino, Michael C Kampffmeyer, Antonello Rizzi, and Robert Jenssen. 2017. Recurrent
+Neural Networks for Short-Term Load Forecasting: An Overview and Comparative Analysis. (2017)
 3. http://www.nemweb.com.au/REPORTS/ARCHIVE/Dispatch\_SCADA/
 4. https://solcast.com/
 5. https://archive.ics.uci.edu/
