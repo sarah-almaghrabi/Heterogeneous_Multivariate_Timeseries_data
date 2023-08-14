@@ -38,9 +38,9 @@ The repository includes the following datasets in the **data** folder:
 
 **References**:
 1. Li Cao, Yanting Chen, Zhiyang Zhang, and Ning Gui. 2021. A Multiattention-Based Supervised Feature Selection
-Method for Multivariate Time Series. Computational Intelligence and Neuroscience 2021 (2021) 
+Method for Multivariate Time Series. Computational Intelligence and Neuroscience.
 2. Filippo Maria Bianchi, Enrico Maiorino, Michael C Kampffmeyer, Antonello Rizzi, and Robert Jenssen. 2017. Recurrent
-Neural Networks for Short-Term Load Forecasting: An Overview and Comparative Analysis. (2017)
+Neural Networks for Short-Term Load Forecasting: An Overview and Comparative Analysis.
 3. http://www.nemweb.com.au/REPORTS/ARCHIVE/Dispatch\_SCADA/
 4. https://solcast.com/
 5. https://archive.ics.uci.edu/
